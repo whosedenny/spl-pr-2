@@ -39,6 +39,19 @@ a:hover {
   text-decoration: none;
 }
 
+.runing-container {
+  width: 100%; 
+  overflow: hidden; 
+  white-space: nowrap; 
+  border: 1px solid black; 
+  height: 50px;
+}
+
+.runing-text {
+  display: inline-block; 
+  white-space: nowrap; 
+}
+
 .container-fluid {
   max-width: 1200px;
 }
